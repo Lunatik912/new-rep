@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from prophet import Prophet
+from prophet import prophet
 import matplotlib.pyplot as plt
 import streamlit as st
 
